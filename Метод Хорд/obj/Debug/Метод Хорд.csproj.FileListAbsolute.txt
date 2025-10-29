@@ -1,0 +1,14 @@
+C:\Users\levan\OneDrive\Рабочий стол\Метод Хорд\Метод Хорд\bin\Debug\Метод Хорд.exe.config
+C:\Users\levan\OneDrive\Рабочий стол\Метод Хорд\Метод Хорд\bin\Debug\Метод Хорд.exe
+C:\Users\levan\OneDrive\Рабочий стол\Метод Хорд\Метод Хорд\bin\Debug\Метод Хорд.pdb
+C:\Users\levan\OneDrive\Рабочий стол\Метод Хорд\Метод Хорд\obj\Debug\Метод Хорд.csproj.AssemblyReference.cache
+C:\Users\levan\OneDrive\Рабочий стол\Метод Хорд\Метод Хорд\obj\Debug\Метод Хорд.csproj.CoreCompileInputs.cache
+C:\Users\levan\OneDrive\Рабочий стол\Метод Хорд\Метод Хорд\obj\Debug\Метод Хорд.exe
+C:\Users\levan\OneDrive\Рабочий стол\Метод Хорд\Метод Хорд\obj\Debug\Метод Хорд.pdb
+E:\Третий Курс\Численные методы\Метод Хорд\Метод Хорд\bin\Debug\Метод Хорд.exe.config
+E:\Третий Курс\Численные методы\Метод Хорд\Метод Хорд\bin\Debug\Метод Хорд.exe
+E:\Третий Курс\Численные методы\Метод Хорд\Метод Хорд\bin\Debug\Метод Хорд.pdb
+E:\Третий Курс\Численные методы\Метод Хорд\Метод Хорд\obj\Debug\Метод Хорд.csproj.AssemblyReference.cache
+E:\Третий Курс\Численные методы\Метод Хорд\Метод Хорд\obj\Debug\Метод Хорд.csproj.CoreCompileInputs.cache
+E:\Третий Курс\Численные методы\Метод Хорд\Метод Хорд\obj\Debug\Метод Хорд.exe
+E:\Третий Курс\Численные методы\Метод Хорд\Метод Хорд\obj\Debug\Метод Хорд.pdb
